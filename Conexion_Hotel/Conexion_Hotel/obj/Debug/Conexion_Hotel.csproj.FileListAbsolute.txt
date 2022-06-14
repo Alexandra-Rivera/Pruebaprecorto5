@@ -1,0 +1,11 @@
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\bin\Debug\Conexion_Hotel.exe.config
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\bin\Debug\Conexion_Hotel.exe
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\bin\Debug\Conexion_Hotel.pdb
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.csproj.AssemblyReference.cache
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.Properties.Resources.resources
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.csproj.GenerateResource.cache
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.exe
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.pdb
+C:\Users\AlexaR\Documents\Instituciones\UCA\CICLO 3_ UCA\POO\PracticaCP5\Conexion_Hotel\Conexion_Hotel\obj\Debug\Conexion_Hotel.frmPrincipal.resources
